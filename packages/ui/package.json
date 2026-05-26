@@ -1,0 +1,9 @@
+{
+  "name": "@rapyard/ui",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  }
+}

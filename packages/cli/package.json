@@ -1,0 +1,7 @@
+{
+  "name": "@rapyard/cli",
+  "version": "1.0.0",
+  "bin": {
+    "ry": "index.mjs"
+  }
+}
